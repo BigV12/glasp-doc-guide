@@ -45,7 +45,7 @@ This is an introductory guide to Glasp. This article is for beginners and for th
 
 # What is Glasp?
 
-Glasp is a web browser extension that allows you to highlight any content on a web page on the Internet. Glasp is not restricted to only texts but you can also use it to highlight videos and images on various web pages.
+Glasp is a web browser extension that allows you to highlight any content on a web page on the Internet. Glasp is not restricted to only texts but you can also use it to highlight videos and pdf on various web pages.
 
 Glasp stores these highlights for you and keeps them so you can easily access them or make reference to them at a later time.
 
@@ -79,8 +79,6 @@ Glasp has a tag feature which you can use to arrange and group your highlights i
 Glasp is like a social media platform. But instead of sharing thoughts and opinions, your highlighted texts are shared with everyone. This means that the text and videos you highlight are not private. It can be seen by every Glasp user who either follows you or searches for your profile.
 
 You can follow different people too and see their highlights.
-
-Comments are allowed about each highlight and people can share their thoughts.
 
 ### Topics
 
@@ -235,7 +233,7 @@ View both new and old highlights from the topics you are following. for example,
 
 ![Alt text](<Screenshot%20(136).png>)
 
-The popular page shows you all the highlights that are popular among users. It also shows you the highlights that have many interactions, saves and comments by Glasp. You can also save Glasp and follow people from any of the pages.
+The popular page shows you all the highlights that are popular among users. It also shows you the highlights that have many interactions and saves by Glasp. You can also save Glasp and follow people from any of the pages.
 
 ### Saving a Highlight
 
@@ -325,10 +323,20 @@ There are sites that you cannot use Glasp on. Glasp is not supported on those si
 ![Glasp Limitations](<Screenshot%20(47)_LI.jpg>)
 Remember that all highlights made using Glaps are open and any Glaps user can view the content, so having for example your credit card information highlighted will put you at risk cause someone might steal the info and rob you.
 
-# Conclusion
+# Frequently Asked Questions
 
-This is a beginner friendly introduction to Glasp. It was written for those who are just hearing about Glasp for the first time and want to know more about the softare and how to use it.
+### What is Glasp?
+Glasp is a social web highlighter. It is a browser extension which you can use to highlight texts and videos on any webpage. 
 
-Glasp is used to highlight texts and videos on different web pages. It helps you to pull different articles together and refer to them later. Your highlights are saved on your Glasp page and it is visible to everyone.
+### Is Glasp Free?
+Glasp is free, you don’t have to pay any money to use it.
 
-Glasp works like a social media platform but instead of people sharing posts and images, their highlighted contents serves as their posts and people can interact with it and share it to other people.
+### Are my highlights private?
+No, the highlights you make are visible to other Glasp users and you can view theirs too.
+
+### Does Glasp work on mobile devices?
+You can log into your Glasp account with your phone and view your highlights, but you can’t highlight texts with your mobile device. 
+
+### Can I add social media links to my Profile?
+Yes, you can link your different social media accounts to Glasp so people can follow your social media pages.
+
