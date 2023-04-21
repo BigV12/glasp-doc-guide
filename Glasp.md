@@ -41,7 +41,7 @@ This is an introductory guide to Glasp. This article is for beginners and for th
   - [Download icon](#download-icon)
   - [profile](#profile)
 - [Limitations of Glaps](#limitations-of-glaps)
-- [Conclusion](#conclusion)
+- [Frequently Asked Questions](#conclusion)
 
 # What is Glasp?
 
